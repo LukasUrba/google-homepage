@@ -1,2 +1,3 @@
 This project will be using HTML and CSS to build a nice looking Google homepage I am assuming.  Once I finish this project I hope to have deeper knowledge of how to commit git to github as well as be able to use HTML and CSS (mainly CSS) more proficiently.
 
+What I have ended up learning was a lot of CSS, some of the main things were the different displays and positionings and also how grouping things together and seperately affects other elements also the difference between margin and padding.
